@@ -1,0 +1,23 @@
+{
+  "name": "better-security-questions",
+  "version": "1.0.0",
+  "description": "Better security questions for easy use in your projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cassidoo/better-security-questions.git"
+  },
+  "keywords": [
+    "security",
+    "questions"
+  ],
+  "author": "cassidoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassidoo/better-security-questions/issues"
+  },
+  "homepage": "https://github.com/cassidoo/better-security-questions#readme"
+}
