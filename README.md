@@ -5,6 +5,12 @@ Security questions are pretty boring and stereotypical (like, "what's your mothe
 
 This is a package of better security questions to make the world safer for eeeeeveryone!
 
+## To install
+
+```bash
+npm install better-security-questions
+```
+
 ## To use
 
 ```js
@@ -15,7 +21,7 @@ securityQuestions.silly;
 
 ```
 
-## Contributing
+## To contribute
 
 Please add questions that you think would be good! Answers to them should be:
 
