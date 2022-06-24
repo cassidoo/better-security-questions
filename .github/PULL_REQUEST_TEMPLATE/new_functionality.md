@@ -1,3 +1,3 @@
-This PR adds the following functionality:
+**This PR adds the following functionality:**
 
-Example use case:
+**Example use case:**
