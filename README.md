@@ -19,6 +19,8 @@ const securityQuestions = require('better-security-questions');
 securityQuestions.silly;
 > ["What chore do you suck the most at?", ...
 
+securityQuestions.random('silly');
+> When did you stop trying?
 ```
 
 ## To contribute
