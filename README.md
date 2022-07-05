@@ -17,10 +17,10 @@ npm install better-security-questions
 const securityQuestions = require('better-security-questions');
 
 securityQuestions.silly;
-> ["What chore do you suck the most at?", ...
+> ["Are you even good enough to have imposter syndrome?", ...
 
 securityQuestions.random('silly');
-> When did you stop trying?
+> "When did you stop trying?"
 ```
 
 ## To contribute
