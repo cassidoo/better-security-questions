@@ -1,5 +1,4 @@
-Better Security Questions 🔒
-===========================
+# Better Security Questions 🔒
 
 Security questions are pretty boring and stereotypical (like, "what's your mother's maiden name?" and "on what street did you grow up?") which are fine, but... predictable and unsafe.
 
@@ -31,3 +30,5 @@ Please add questions that you think would be good! Answers to them should be:
 - Unique (there should be one precise answer for the user)
 - Unpredictable (something others can't easily guess or research)
 - Consistent (it shouldn't change over time)
+
+Remember to add your question following the alphabetical order!
