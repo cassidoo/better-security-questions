@@ -31,3 +31,5 @@ Please add questions that you think would be good! Answers to them should be:
 - Unique (there should be one precise answer for the user)
 - Unpredictable (something others can't easily guess or research)
 - Consistent (it shouldn't change over time)
+
+Remember to add your question following the alphabetical order!
